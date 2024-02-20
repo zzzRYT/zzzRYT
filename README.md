@@ -12,22 +12,16 @@
 
 <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" height="30"/></a>
 
-<a><img src="https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=NestJs&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30"/></a>
-
-<a><img src="https://img.shields.io/badge/auth0-EB5424.svg?&style=for-the-badge&logo=auth0&logoColor=white" height="30"/></a> <a><img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=white" height="30"/></a>
-
-<a><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/></a>
-
 ## 📫 Contact
 
-- Discord : nicodora
+- Discord : zzzryt
 - [hmm...](https://i.esdrop.com/d/f/WaaaCJFBsq/ABsz8K87Qv.png)
 
-![NicoDora's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzRYT&theme=tokyonight&show_icons=true)
+![zzzRYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzRYT&theme=tokyonight&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zzzRYT&theme=tokyonight)](https://git.io/streak-stats)
 
-![NicoDora's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zzzRYT&theme=tokyo-night)
+![zzzRYT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zzzRYT&theme=tokyo-night)
 
 <!--
 **zzzRYT/zzzRYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
