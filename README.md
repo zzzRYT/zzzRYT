@@ -6,7 +6,7 @@
 
 | Date            | Organization                                                 | Position  |
 | --------------- | ------------------------------------------------------------ | --------- |
-| 2023.06 ~ _ing_ | [Modern Agile (6term)](https://github.com/modern-agile-team) | Front End |
+| 2023.06 ~ 2024.03 | [Modern Agile (6term)](https://github.com/modern-agile-team) | Front End |
 
 ## 🕹️ Tech stack
 
@@ -23,10 +23,10 @@
   <img src="https://img.shields.io/badge/vercel-000000?style=flat&logo=vercel&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/storybook-FF4785?style=flat&logo=storybook&logoColor=white" height="30"/>
 </p>
 ## 📫 Contact
-
-- Discord : zzzryt
+- email : jinjinstar3@gmail.com
 
   
 ![zzzRYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzRYT&theme=tokyonight&show_icons=true)
