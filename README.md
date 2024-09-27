@@ -7,6 +7,7 @@
 | Date            | Organization                                                 | Position  |
 | --------------- | ------------------------------------------------------------ | --------- |
 | 2023.06 ~ 2024.03 | [Modern Agile (6term)](https://github.com/modern-agile-team) | Front End |
+| 2024.09 ~ _ing_ | [fashion24](https://github.com/fashion24-developer/fashion24-front) | Front End |
 
 ## 🕹️ Tech stack
 
