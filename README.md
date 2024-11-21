@@ -36,6 +36,14 @@
 
 ![zzzRYT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zzzRYT&theme=tokyo-night)
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/zzzRYT"
+  width="600"
+  height="300"
+/>
+</a>
+
 <!--
 **zzzRYT/zzzRYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
