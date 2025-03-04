@@ -32,7 +32,7 @@
   
 ![zzzRYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzRYT&theme=tokyonight&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zzzRYT)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zzzRYT&theme=dark)](https://git.io/streak-stats)
 
 ![zzzRYT's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zzzRYT&theme=tokyo-night)
 
