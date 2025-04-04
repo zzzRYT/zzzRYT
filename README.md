@@ -1,6 +1,6 @@
 ### 반갑습니다.
 
-이재진 입니다. 👋
+프론트엔드 개발자 이재진 입니다. 👋
 
 ## 📖 My History
 
@@ -10,7 +10,6 @@
 
 ## 🕹️ Tech stack
 
-hellp
 <p align="center>
   <img class="img" src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white" height="30"/>
   <img class="img" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" height="30"/>
