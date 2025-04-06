@@ -1,12 +1,17 @@
-### 반갑습니다.
+<div align=center>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=220&section=header&text=안녕하세요!%20&fontSize=80&desc=zzzRYT's%20GitHub%20입니다!&descAlign=62&fontColor=ffff&animation=scaleIn&fontAlignY=39"/>
 
-프론트엔드 개발자 이재진 입니다. 👋
-
-## 📖 My History
-
-| Date            | Organization                                                 | Position  |
-| --------------- | ------------------------------------------------------------ | --------- |
-| 2023.06 ~ 2024.03 | [Modern Agile (6term)](https://github.com/modern-agile-team) | Front End |
+<div align=center><h1>👨‍💻 Introduce 👨‍💻</h1></div>
+  <h3>신입 프론트엔드 개발자 이재진입니다!</h3>
+  <br>
+<h4>소통과 공유를 좋아하고, 소통의 비용을 줄이기 위한 코드를 목표로 공부하고 있습니다!</h4>
+<br>
+<br>
+  
+  
+<div align=center><h1>📧 Contact 📧</h1></div>
+jinjinstar3@gmail.com
+<br>
 
 ## 🕹️ Tech stack
 
@@ -14,7 +19,7 @@
   <img class="img" src="https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white" height="30"/>
   <img class="img" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/next.js-000000?style=flat&logo=next.js&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white" height="30"/><br/>
+  <img src="https://img.shields.io/badge/TanstackQuery-f59e0b?style=flat&logo=ReactQuery&logoColor=white" height="30"/><br/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styled-components&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white" height="30"/>
@@ -25,11 +30,10 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/storybook-FF4785?style=flat&logo=storybook&logoColor=white" height="30"/>
 </p>
-## 📫 Contact
-- email : jinjinstar3@gmail.com
+
 <br />
 <br />
-  
+
 ![zzzRYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzRYT&theme=tokyonight&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zzzRYT&theme=dark)](https://git.io/streak-stats)
@@ -43,6 +47,9 @@
   height="300"
 />
 </a>
+
+</div>
+
 
 <!--
 **zzzRYT/zzzRYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
