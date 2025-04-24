@@ -32,7 +32,6 @@ jinjinstar3@gmail.com
 </p>
 
 <br />
-<br />
 
 ![zzzRYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzzRYT&theme=tokyonight&show_icons=true)
 
