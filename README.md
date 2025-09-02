@@ -11,6 +11,8 @@
   
 <div align=center><h1>📧 Contact 📧</h1></div>
 jinjinstar3@gmail.com
+<br/>
+👉<a href="https://shorthaired-channel-ddf.notion.site/25929d6fc06d80d88cbdc56c2f1e3882?source=copy_link">이력서 보러가기</a>👈
 <br>
 
 ## 🕹️ Tech stack
